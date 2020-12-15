@@ -1,6 +1,6 @@
 ## About Zhuyao Wang
 
-Zhuyao Wang is a PhD candidate at Northeastern University [editor on GitHub](https://github.com/physicsbamboo/physicsbamboo.github.io/edit/main/index.md) working with Prof. Nath Pran.
+Zhuyao Wang is a PhD candidate at Northeastern University [editor on GitHub](https://github.com/physicsbamboo/physicsbamboo.github.io/edit/main/index.md) working with Prof. Nath Pran. Her research interest is theoretical high energy physics, including dark matter, LHC. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
