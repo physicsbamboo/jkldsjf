@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## About Zhuyao Wang
 
-You can use the [editor on GitHub](https://github.com/physicsbamboo/physicsbamboo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Zhuyao Wang is a PhD candidate at Northeastern University [editor on GitHub](https://github.com/physicsbamboo/physicsbamboo.github.io/edit/main/index.md) working with Prof. Nath Pran.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
